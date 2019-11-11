@@ -6,7 +6,8 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        // commentaire 3    
+        // commentaire 3
+        // coimme       
         Message('App published: Hello world');
     end
 }
