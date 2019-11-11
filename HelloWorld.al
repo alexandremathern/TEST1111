@@ -8,6 +8,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
     begin
         // commentaire 3
         // coimme       
+        // app2 
         Message('App published: Hello world');
     end
 }
